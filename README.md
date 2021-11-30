@@ -1,0 +1,2 @@
+# ServiceMix
+ServiceMix related projects
